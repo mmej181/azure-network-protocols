@@ -9,12 +9,13 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 <h2>Video Demonstration</h2>
 
 How to:
+
 <p>
-Azure Virtual Machines </p>
+Use Wireshark </p>
 <p>
-Wireshark </p>
-<p>
-  Network Security Groups </p>
+  Understand Network Security Groups </p>
+
+
 
 <h2>Technologies Used</h2>
 
@@ -29,7 +30,7 @@ Wireshark </p>
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>Steps</h2>
+<h2>Stages</h2>
 
 - Step 1
 - Step 2
