@@ -8,22 +8,28 @@ In this tutorial, we observe various network traffic to and from Azure Virtual M
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: Azure Virtual Machines, Wireshark, and Network Security Groups](https://www.youtube.com)
+How to:
+<p>
+Azure Virtual Machines </p>
+<p>
+Wireshark </p>
+<p>
+  Network Security Groups </p>
 
-<h2>Environments and Technologies Used</h2>
+<h2>Technologies Used</h2>
 
-- Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
-- Various Command-Line Tools
-- Various Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
+- Azure (VMs/Compute)
+- Remote Desktop (RDP)
+- Command-Line Tools
+- Network Protocols (SSH, RDH, DNS, HTTP/S, ICMP)
 - Wireshark (Protocol Analyzer)
 
-<h2>Operating Systems Used </h2>
+<h2>OS Used </h2>
 
 - Windows 10 (21H2)
 - Ubuntu Server 20.04
 
-<h2>High-Level Steps</h2>
+<h2>Steps</h2>
 
 - Step 1
 - Step 2
