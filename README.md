@@ -70,9 +70,16 @@ Step 6: Observe ping requests/replies in Wireshark
 
 Step 7: Initiate an endless ping from your Windows VM to your Linux VM
 
+![](media/STEP%207%20-%20ENDLESS%20PING.png)
+
 Step 8: Open Network Security Group on your Ubuntu VM and disable inbound ICMP traffic
 
+![](media/STEP%208%20-%20DENY%20ICMP.png)
+
 Step 9: Use Wireshark to view observe the incoming ICMP traffic be denied.
+
+![](media/STEP%209%20-%20RTO.png)
+
 </p>
 <br />
 
@@ -81,9 +88,18 @@ Step 9: Use Wireshark to view observe the incoming ICMP traffic be denied.
 
 Step 10: SSH - In Wireshark, filter for SSH traffic; SSH into your Linux VM using it’s private IP address. Send commands to this machine and observe from back in Wireshark.
 
+![](media/STEP%2010%20-%20SSH.png)
+
 Step 11: DHCP - In Wireshark, filter for DHCP traffic; on your Windows VM, type ipconfig /renew in the command line to issue yourself a new IP address. Observe the traffic back in Wireshark
+
+![](media/STEP%2011%20-%20IPCONFIG.png)
 
 Step 12: DNS - In Wireshark, filter for DNS traffic; using your Windows VM’s command line, type nslookup to find the IP address for a common domain like reddit or twitter. Observe the traffic back in Wireshark.
 
+![](media/STEP%2012%20-%20NSLOOKUP.png)
+
 Step 13: RDP - In Wireshark, filter for RDP traffic; notice a constant stream of traffic? This is because you’re currently connected via Remote Desktop (RDP)
+
+![](media/STEP%2013%20-%20RDP.png)
+
 <br />
