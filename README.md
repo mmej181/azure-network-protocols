@@ -44,7 +44,7 @@ Step 2: Once downloaded, open Wireshark using the start menu.
 
 Step 3: When selecting a capture filter, choose Ethernet; then click the blue fin at the top left beneath the File button.
 
-![](media/STEP%203%20-%20BEGIN%20CAPTURE.png)
+![](media/STEP%203%20-%20CAPTURE.png)
 
 </p>
 <br />
