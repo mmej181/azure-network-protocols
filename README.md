@@ -40,6 +40,8 @@ Step 1: In your VM, download Wireshark using your default browser.
 
 Step 2: Once downloaded, open Wireshark using the start menu.
 
+![](media/STEP%202%20-%20OPEN%20WIRESHARK.png)
+
 Step 3: When selecting a capture filter, choose Ethernet; then click the blue fin at the top left beneath the File button.
 
 </p>
