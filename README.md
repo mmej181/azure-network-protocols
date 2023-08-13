@@ -57,6 +57,8 @@ Step 4: Filter for ICMP traffic
 
 Step 5: With the private IP address of your Linux VM, use PowerShell to ping that machine from your Windows VM.
 
+![](media/STEP%205%20-%20ICMP%20PING.png)
+
 Step 6: Observe ping requests/replies in Wireshark
 
 </p>
